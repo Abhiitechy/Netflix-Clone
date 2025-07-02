@@ -1,2 +1,2 @@
 # This is clone of netflix with using html and css with responsiveness...
-# This is the preview of project "http://127.0.0.1:3000/index.html?serverWindowId=22fe5755-dad0-4d4f-95f6-8f75288b389a"
+# This is the preview of project "https://harmonious-kelpie-75619f.netlify.app/"
